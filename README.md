@@ -1,4 +1,9 @@
-# Love in the Apocalypse- A zombie dating sim game demo
+# Love in the Apocalypse
+
+A zombie dating sim game demo
+
+https://pure-plateau-57827.herokuapp.com/
+
 Made with:
 Foundation
 HandleBars
